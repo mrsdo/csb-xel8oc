@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mrsdo.github.io/csb-xel8oc/static/css/main.5ecd4f0a.chunk.css",
+    "main.js": "https://mrsdo.github.io/csb-xel8oc/static/js/main.276ae9de.chunk.js",
+    "main.js.map": "https://mrsdo.github.io/csb-xel8oc/static/js/main.276ae9de.chunk.js.map",
+    "runtime-main.js": "https://mrsdo.github.io/csb-xel8oc/static/js/runtime-main.874a80ec.js",
+    "runtime-main.js.map": "https://mrsdo.github.io/csb-xel8oc/static/js/runtime-main.874a80ec.js.map",
+    "static/js/2.a7e49744.chunk.js": "https://mrsdo.github.io/csb-xel8oc/static/js/2.a7e49744.chunk.js",
+    "static/js/2.a7e49744.chunk.js.map": "https://mrsdo.github.io/csb-xel8oc/static/js/2.a7e49744.chunk.js.map",
+    "index.html": "https://mrsdo.github.io/csb-xel8oc/index.html",
+    "static/css/main.5ecd4f0a.chunk.css.map": "https://mrsdo.github.io/csb-xel8oc/static/css/main.5ecd4f0a.chunk.css.map",
+    "static/js/2.a7e49744.chunk.js.LICENSE.txt": "https://mrsdo.github.io/csb-xel8oc/static/js/2.a7e49744.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.874a80ec.js",
+    "static/js/2.a7e49744.chunk.js",
+    "static/css/main.5ecd4f0a.chunk.css",
+    "static/js/main.276ae9de.chunk.js"
+  ]
+}
